@@ -22,7 +22,7 @@
 ## Sıkça Sorulan Sorular
 
 Eğer uygulama ile alakalı bir sorun yaşarsanız, lütfen bize ulaşın.
-> support@jsproduksiyon.com
+> yazilim@jsproduksiyon.com
 
 ### Petra Radyo Oynatıcı nedir?
 Petra Radyo Oynatıcı, Petra Medya Grup'un himayesi altındaki radyoları canlı olarak dinleyebileceğiniz ve yayın akışını görüntüleyebileceğiniz bir uygulamadır.
@@ -50,7 +50,7 @@ Evet, dinleyebilirsiniz. Arka planda müziği dinleme işlemleri Bluetooth cihaz
 ## Frequently Asked Questions
 
 If you have any problems with the app, please contact us.
-> support@jsproduksiyon.com
+> yazilim@jsproduksiyon.com
 
 ### What is Petra Radio Player?
 Petra Radio Player is an application where you can listen live to the radios under the auspices of Petra Media Group and view their broadcast streams.
